@@ -122,6 +122,62 @@ Ans:
 
 - - -
 ## Module 3: Password Perspectives
+### Q-1) Which practice should you implement for backups?
+Select one:
+- Always back up your data in the cloud.
+- Encrypt the backup data for an extra layer of protection.
+- Use multiple backup vendors for redundancy.
+- Keep a backup device physically connected to the host computer 100% of the time.
+Ans:
+```diff
+- Encrypt the backup data for an extra layer of protection.
+```
+### Q-2) Which three methods are examples of online multi-factor authentication? (Choose three.)
+Select one or more:
+- Passport or other government-issued identification
+- Full name
+- Software token
+- Password
+- Hardware token
+Ans: 
+```diff
+- Software token, Password ,Hardware token
+```
+### Q-3) Identify an example of a password that best follows the password guidelines in this lesson.
+Select one:
+- 1234567890
+- qwerty123
+- J&JwutH2f@P0W
+- PasswordAndAllThat
+Ans:
+```diff
+- J&JwutH2f@P0W
+```
+
+### Q-4) Identify two good password practices. (Choose two.)
+Select one or more:
+- The password should be unique from your other passwords.
+- Replace the password at least twice a year.
+- The password should be difficult to remember.
+- The password should be easy to guess.
+Ans:
+```diff
+- The password should be unique from your other passwords.
+
+- Replace the password at least twice a year.
+
+```
+### Q-5) Which two characteristics are examples of poor passwords? (Choose two.)
+Select one or more:
+- A commonly used word or unchanged default password
+- A predictable sequence of numbers or words
+- A combination of random letters, numbers, and special characters meaningful only to you
+- A memorable passphrase written as a random sequence of keyboard keys
+Ans:
+```diff
+- A commonly used word or unchanged default password
+- A predictable sequence of numbers or words
+```
 
 - - -
 ## Module 4: Internet Threat Perspectives
