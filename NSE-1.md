@@ -287,4 +287,58 @@ Ans:
 
 - - -
 ## Module 5: Insider Threat Perspectives
-### 
+### Why are insider threats one of the most challenging attack vectors?
+Select one:
+- There is little that can be done to prevent a denial of service attack.
+- Employees are trusted users who have legitimate access to an organization’s data and resources.
+- Insider attacks are common, obvious, and overwhelm IT security.
+- Network security is designed to defend against outsiders, not insiders.
+Ans:
+```diff
+- Employees are trusted users who have legitimate access to an organization’s data and resources.
+```
+
+### What is the root cause of almost every data breach?
+Select one:
+- Poorly crafted password
+- Zero-day attack
+- Unpatched device
+- Human error
+Ans:
+```diff
+- Human error
+```
+
+### Identify two best practices for physical security awareness. (Choose two.)
+Select one or more:
+- Always be considerate, such as holding the door open for people, even if you don’t know them.
+- Lock your computer screen and mobile devices every time you step away.
+- Keep your desk free of any proprietary or confidential information.
+- Follow your organization’s security policies unless they hinder efficiency.
+Ans:
+```diff
+- Lock your computer screen and mobile devices every time you step away.
+- Keep your desk free of any proprietary or confidential information.
+```
+
+### Which method is a defense against potential insider threats?
+Select one:
+- Investigate and if possible resolve the threat on your own.
+- Confront any person you suspect of being an insider threat.
+- Monitor your co-workers’ daily activities.
+- Identify and report any suspicious activity.
+Ans:
+```diff
+- Identify and report any suspicious activity.
+```
+
+### Which practice strengthens the physical security of your work environment?
+Select one:
+- Recycle all paper, CDs, DVDs, hard drives etc. into their appropriate bins.
+- Shred and destroy all documents that contain sensitive personal or organizational information rather than tossing them into the waste bin.
+- Pile all confidential documents neatly to one corner of your desk.
+- Ensure that your software is up-to-date and that the latest patches are applied.
+Ans:
+```diff
+- Shred and destroy all documents that contain sensitive personal or organizational information rather than tossing them into the waste bin.
+```
