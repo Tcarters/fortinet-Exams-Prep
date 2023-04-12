@@ -1,5 +1,12 @@
 # SASE - Secure Access Service Edge
 
+- SASE services deliver:
+  * Optimized paths for all users to all clouds to improve performance and agility.
+  * Enterprise-grade certified security for mobile workflows.
+  * Consistent security for all edges.
+  * Consolidated management of security and network operations.
+- The goal of SASE is to support the dynamic secure access needs of today's organizations.
+
 ### Core capabilities of SASE
 - Zero Trust Network Access
 - Next Generation Firewall
