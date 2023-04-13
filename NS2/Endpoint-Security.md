@@ -35,7 +35,8 @@ Select one or more:
 - Some users visit dangerous websites
 Answer:
 ```diff
-+ 
++ Lack of integration between endpoint security products.
++ Multiple administration consoles adds complexity.
 ```
 
 ### 3) Why do threat actors target endpoints in a network?
@@ -46,7 +47,7 @@ Select one:
 - Antivirus software on endpoints is inferior to that on servers.
 Answer:
 ```diff
-+ 
++ They are an easy point of entry into a network.
 ```
 
 ### 4) Which type of malware seriously reduced the effectiveness of signature-based antivirus?
@@ -57,7 +58,7 @@ Select one:
 - File-based
 Answer:
 ```diff
-+ 
++ Polymorphic.
 ```
 
 ### 5) Which service is used as part of endpoint detection and response (EDR)?
@@ -68,7 +69,7 @@ Select one:
 - Antivirus (AV)
 Answer:
 ```diff
-+ 
++ Forensics investigation tool.
 ```
 
 ### 6) Which description best identifies file-based malware?
@@ -80,5 +81,5 @@ Select one:
 - A large number of irrelevant or inappropriate messages sent over the internet
 Answer:
 ```diff
-+
++ A downloaded file, which when opened, runs malicious code or a script.
 ```
