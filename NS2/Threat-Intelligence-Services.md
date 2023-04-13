@@ -23,6 +23,7 @@ Answer:
 ```diff
 + Sandboxing.
 ```
+> Un sandbox (bac à sable) est un environnement isolé et sécurisé dans lequel des programmes informatiques peuvent être exécutés sans risque d'endommager le système hôte ou de compromettre la sécurité du réseau. Les sandboxes sont souvent utilisés pour l'analyse de logiciels malveillants, car ils permettent aux chercheurs en sécurité de lancer et d'observer le comportement de fichiers suspects sans risque pour les systèmes réels. Les sandboxes peuvent également être utilisés pour tester des applications potentiellement dangereuses ou pour développer des logiciels dans un environnement isolé avant de les déployer sur des systèmes réels.
 
 ### 3) Which statement best describes polymorphic malware?
 Select one:
