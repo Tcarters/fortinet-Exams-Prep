@@ -1,6 +1,9 @@
 
 # Security Orchestration Automation and Response - SOAR)
 
+SOAR stands for Security Orchestration, Automation, and Response. It is a technology solution that helps organizations to automate and streamline their security operations. SOAR integrates with existing security tools and systems, collects data from various sources, and applies machine learning and artificial intelligence to analyze and prioritize security incidents. SOAR then automates the response to these incidents, reducing response time and increasing the effectiveness of security teams. It also enables security teams to document their response and remediation actions, facilitating incident reporting and compliance.
+
+
 ### 1) What is alert fatigue?
 Select one:
 - Analysts reduce the number of alerts using SOAR
