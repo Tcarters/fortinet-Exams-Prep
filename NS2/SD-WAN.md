@@ -1,5 +1,6 @@
 # SD-WAN (Software Defined Wide Area Network )
 
+Un SD-WAN (Software-Defined Wide Area Network) est une technologie de réseau étendu défini par logiciel qui permet de connecter plusieurs sites distants via des liens réseau à large bande passante, tels que la fibre optique, l'ADSL, le câble ou la 4G/5G. Contrairement aux réseaux WAN traditionnels qui nécessitent des équipements propriétaires et une configuration manuelle pour gérer le trafic, le SD-WAN utilise des logiciels pour optimiser et sécuriser le trafic réseau en fonction de ses priorités et de la qualité des liens réseau disponibles. Le SD-WAN offre également une visibilité et un contrôle centralisés sur les connexions réseau et les appareils connectés, ce qui facilite la gestion et la maintenance du réseau étendu.
 
 ## Benefits of SD-WAN
 - Greater Network Visibility
