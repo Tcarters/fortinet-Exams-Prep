@@ -12,10 +12,10 @@ Overall, the CSMA is seen as a promising approach to cybersecurity, particularly
 
 
 ## Security Fabric Pillars :
-- Security -Driven Networking
+- Security-Driven Networking converges networking and security into a single, integrated system.
 - Zero Trust Access (ZTA)
-- Adaptive Cloud Security
-- Security Operations/ Fabric Management Center.
+- Adaptive Cloud Security provides cloud native security with auto-scaling across and within multi-cloud environments.
+- Security Operations/ Fabric Management Center enables centralized management, network automation and orchestration and analytics.
 
 ## Security Fabric Products by Pillar :
 
@@ -26,3 +26,18 @@ Overall, the CSMA is seen as a promising approach to cybersecurity, particularly
 ## Security Fabric Product Form Factors :
 Fortinet Security Fabric products can be deployed as:
 - Hardware, VM, Cloud, Saas .
+
+## Security Fabric - Management :
+- Centralized management 
+- Network automation
+- Analytics
+
+## Security Fabric values 
+
+![image](https://user-images.githubusercontent.com/71230412/232201256-03c2c6dc-8fdc-4a75-92a2-cbf127f589dc.png)
+
+![image](https://user-images.githubusercontent.com/71230412/232201490-1fa26aeb-93d4-48fb-93da-2dd15e207f41.png)
+
+![image](https://user-images.githubusercontent.com/71230412/232201709-915ba7f7-8933-479c-b9b0-f40878323011.png)
+
+
