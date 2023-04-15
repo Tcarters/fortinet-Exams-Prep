@@ -19,3 +19,10 @@ Overall, the CSMA is seen as a promising approach to cybersecurity, particularly
 
 ## Security Fabric Products by Pillar :
 
+![image](https://user-images.githubusercontent.com/71230412/232200961-0d356451-4435-4e8e-8cd2-525ba324825b.png)
+
+![image](https://user-images.githubusercontent.com/71230412/232200988-81eafe77-1c17-4e7f-bef9-fbdcda6a3596.png)
+
+## Security Fabric Product Form Factors :
+Fortinet Security Fabric products can be deployed as:
+- Hardware, VM, Cloud, Saas .
