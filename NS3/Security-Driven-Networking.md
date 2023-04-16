@@ -35,3 +35,127 @@ Security-driven networking is an approach to network design and implementation t
  - FOrtiManager
  - Access Proxy
  -  Zero-Trust Networking
+
+## Use Case - Hyperscale
+- Hyperscale is the ability of a technology architecture to improve and scale in response to increasing demand on a system.
+- Secure Processing Unit (SPU): combines Network 
+  * Processor (NP) -> off-loads networking functions and
+  * Content Processor (CP) -> off-loads security functions.
+
+### Quest
+- According to the SD-WAN use case, which Fortinet product replaces separate WAN routers, AWN optimization and some security devices ?
+- Answer: **Fortigate**.
+
+- - -
+## Exam 
+### 1) Which product acts as the connection point to the network for wireless devices?
+Select one:
+- FortiWeb
+- FortiExtender
+- FortiConnect
+- FortiAP
+Answer:
+```diff
++ FortiAP
+```
+
+### 2) Which technology allows FortiGate to provide deeper integration with FortiAP and switches?
+Select one:
+- FortiConnect
+- Security Fabric
+- FortiManager
+- FortiLink
+Answer:
+```diff
++ FortiLink
+```
+
+### 3) Which three management options can be used to manage FortiAP? (Choose three.)
+Select one or more:
+- FortiWeb
+- FortiManager
+- FortiGate
+- FortiCloud
+- FortiAP Cloud
+Answer:
+```diff
++ FortiManager
++ FortiGate
++ FortiAP Cloud
+```
+
+### 4) What is security-driven networking?
+Select one:
+
+- The enforcement of industry and government compliance
+- The implementation of strong security hygiene for endpoints
+- The integration of networking and security capabilities
+- The quantification of security measurement through a security rating system
+Answer:
+```diff
++ The integration of networking and security capabilities.
+```
+### 5) According to the SD-WAN use case, which Fortinet product replaces separate WAN routers, WAN optimization, and some security devices?
+Select one:
+- FortiGuard
+- FortiSwitch
+- FortiAI
+- FortiGate
+Answer:
+```diff
++ FortiGate.
+```
+
+### 6) Which best describes the function of the application control feature in FortiGate?
+Select one:
+- Micro-segments the network based on the profiles of applications
+- Digitally signs applications to guard against tampering
+- Creates policies that allow, deny, or restrict access to applications
+- Blocks access to malicious or hacked websites
+Answer:
+```diff
++ Creates policies that allow, deny, or restrict access to applications.
+```
+
+### 7) Which Fortinet-built technology allows FortiGate to enable better throughput performance?
+Select one:
+- Secure processing unit
+- Automation
+- Artificial intelligence
+- Virtual machine
+Answer:
+```diff
++ Secure processing unit.
+```
+
+### 8) Which FortiManager tool enables automation for DevOps and DevSecOps?
+Select one:
+- Scripts and fabric connectors
+- Zero-day detection and response
+- Role-based access control
+- Real-time SLA reporting
+Answer:
+```diff
++ Scripts and fabric connectors.
+```
+### 9) Which term best describes FortiGate?
+Select one:
+- Next generation firewall
+- Router
+- Application controller
+- Secure process unit
+Answer:
+```diff
++ Next generation firewall.
+```
+
+### 10) What is the benefit of the Fortinet security rating?
+Select one:
+- Reconciles duplicate security policies on FortiGate devices
+- Provides a quantifiable measure of a network’s security posture
+- Rates security companies based on their number of high-end security devices
+- Reports on the number of cyberattacks sustained by a network over an interval of time
+Answer:
+```diff
++ Provides a quantifiable measure of a network’s security posture.
+```
