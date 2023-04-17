@@ -33,3 +33,6 @@
 - **FortiClient**: connects endpoints with the FOrtinet Security Fabric. It delivers endpoint visibility and enforces endpoint security hygiene by way of **FortiClient Endpoint Management Server (EMS)**. It shares telemetry to the fabric, which includes endpoint security posture and vulnerability status. And it contributes to dynamic virtual groups.
 - **FOrtiNAC** : is a security product that implements policy on devices that access networks to increase network visibility and control, and to facilitate automated responses to incidences. An example of the control aspect of FOrtiNAC is when a device connects to a computer network, it is not permitted to access anything unless it complies with network policy, including anti-virus protection level, system update level and configuration.
  
+ - - - 
+ ## Lesson FortiAuthenticator
+ - is an identity ,qnqge,ent product for the enterprise ; providing strong quthenticqtion qnd quthoriwqtion to the connected network.
