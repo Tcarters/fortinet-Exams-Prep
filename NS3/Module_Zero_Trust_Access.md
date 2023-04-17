@@ -27,6 +27,8 @@
   * Hiding network applications from the internet.
   
 ## Products of the Zero Trust Access Solution
+ZTA enables organizations to see and control everyone and everything on the network, whether on or off premise.
+
 - **FortiAuthenticator**: is the gatekeeper of authorization into the FOrtinet secured enterprise network, identifying users, querying access permissions from third-party systems, and communicating the information to FOrtiGate devices for use in identity-based policies.
 - FortiAuthenticator leverages information, such as user credentials, groups, and roles, from existing third-party databses or directories to support SSO and access control.
 
@@ -83,6 +85,8 @@ It solves Problems like :
 * FortiEDR
 
 -  **FortiGate** notifies FortiNAC of an affected device on the network.
+
+- **FortiNAC** uses rules, which can consist of up to 20 profiling methods, to identify and categorize an unknown device. Once the device is assigned a device type, it can be added to a role and group that can restrict what the device can do.
 
 
  
