@@ -222,3 +222,15 @@ Protects the network against sexually explicit images.
 - You can address performance and regulations concerns
 - You can keep traffic cost to minimum
 
+- - -
+## Adaptive CLoud Security - Use Cases
+
+![image](https://user-images.githubusercontent.com/71230412/232785428-03a0a15f-2d7f-4069-8efe-191cb7c63b6a.png)
+
+![image](https://user-images.githubusercontent.com/71230412/232785848-b5dff294-2c6a-40ae-b0ce-60ad9954513b.png)
+
+### Q: Which use case includes the requirement to provide consistent, purpose-built application security for applocations such as Microsoft Office 365 and Google Cloud Platform ?
+Answer:
+
+- Secure productivity.
+
