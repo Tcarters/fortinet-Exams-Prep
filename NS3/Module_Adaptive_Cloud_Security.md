@@ -107,4 +107,55 @@ It includes features :
 ### Q: Correct topolog positioning for FOrtiADC:
 - Wireless Access Point ---> Firewall ---> Application Device Controller ---> Application Servers
 
+- - -
+
+## Lesson - FortiMail
+- It provides advanced protection against the full spectrum of email-borne threats.
+- **Comprehensive Email Security** : Advanced threat protection and data loss prevention
+- **Top-Rated Efficacy** : Consistently top-rated to stop spam, malware, ransomware, and advanced email threats
+- **Part of the FOrtinet Security Security Fabric**: Integrated to uncover the full attack life cycle.
+ 
+### FortiMail for Email Security
+- Advanced multi-layer security against:
+  * Known threats
+  * Suspected threats
+  * Unknown threats / zero- Days
+  * Impersonation attempts
+  * Business Email compromise
+ 
+ ![image](https://user-images.githubusercontent.com/71230412/232760815-ed1ec95e-e65a-4525-8c5c-ca1afa0bb6a2.png)
+
+### Easy-to-use Configuration Controls
+- Easy-to-use configuration controls make setting up and manging email security -- even advanced security capabilities
+- easy for organizations of all sizes and use cases.
+
+### Email Continuity
+- is designed to protect valuable productivity by providing emergency mailbox services when organizations experience an outage in their email services.
+- Mitigates the impacts of downtime by keeping end users productive during business outages
+- Reduces recovery time near zero as employees and users access queued email directly on FOrtiMail when email services are down.
+- Queues emails up to 30 days and is available before or during an outage.
+
+### Fortisolator --Safe Content Rendering
+Browse the web in an isolated environment , which renders safe content in a remote container.
+
+### Dynamic Image Analysis Service
+Protects the network against sexually explicit images.
+
+![image](https://user-images.githubusercontent.com/71230412/232763282-fc0213c0-99c6-4c73-89ee-534f66d0a428.png)
+
+### Support the Move to the CLoud
+
+![image](https://user-images.githubusercontent.com/71230412/232763907-fa75a7c5-2218-4fc4-bb5c-72e7e42df816.png)
+
+### Q Three capabilities of FortiMail are:
+- Email continuity
+- Impersonation analysis
+- Content disarm
+
+- - -
+## Lesson FortiWeb
+
+
+
+
 
