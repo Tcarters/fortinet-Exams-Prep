@@ -154,8 +154,71 @@ Protects the network against sexually explicit images.
 
 - - -
 ## Lesson FortiWeb
+- is the Web Application Protector
+  * Protect enterprise applications
+  * Meet PCI compliance
+  *  Automate 
+
+### Web Application and API Protection
+- FortiWeb addresses the key challenges that organization face when deploying Internet facing web applications:
+ * web application protection
+ * Bot mitigation
+ * API protection
+
+### FortiWeb Web App Protection
+- The WAF challenge:
+  * Block threats in real-time without blocking legitimate users and without generating the false positives that drive administrative overhead.
+  * **Solution** : FortiWeb identifies and blocks threats with a combination of:
+     - Machine learning that models your application to detect malicious anomalies
+     - Continually updated threat intelligence and analytics from FortiGuard Labs, including updated attack signatures and detection algorithms.
+
+### FortiWeb Bot Mitigation
+
+![image](https://user-images.githubusercontent.com/71230412/232772242-b1b28080-6dfb-4f7f-90cf-b5a5f4af0732.png)
+
+### FortiWeb API Protection 
+
+![image](https://user-images.githubusercontent.com/71230412/232772467-3e85f98f-7434-4874-8342-a0701950b04d.png)
+- It provides an API gateway that provides a single point of entry API access that includes:
+  * User management
+  * API key Management
+  * Rate limiting
+  * HOST name control
+  * IP-level access control
+  * HTTP referrer access control
+  * Encapsulates internal API structure
+ 
+ ### FortiWeb Features
+
+![image](https://user-images.githubusercontent.com/71230412/232773239-14f59260-8d12-40da-8641-f6d8165c7e0e.png)
 
 
+### Machine Learning-Based Web App Protection
+
+![image](https://user-images.githubusercontent.com/71230412/232773666-3bd410da-0c0c-4a9b-ad4f-96413c8ca9e3.png)
+
+![image](https://user-images.githubusercontent.com/71230412/232773753-23a65419-fc7e-404c-b101-92a7690aa2f6.png)
+
+![image](https://user-images.githubusercontent.com/71230412/232773963-f169441d-e82f-44f3-9e0c-f223d86efaab.png)
 
 
+### Q Order the actions undertaken by FortiWeb to provide layered application protection
+1. Ip Reputation services screens out maicious sites
+2. Files, attachments, or code are scrubbed with antivirus and data leakage
+3. Advanced persistent threats are screened using integration with FortiSandbox and FortiGate
+4. User scoring assesses the severity of the attack to minimize false positive detections.
+
+
+### FortiWeb Cloud WAF as a Service
+- A cloud Native Web Application and APi Protection solution
+
+![image](https://user-images.githubusercontent.com/71230412/232778464-ad71f6ae-9a27-42a5-85fc-85c29758211e.png)
+
+### FortiWeb Cloud WAF as a service-Global CDN
+
+![image](https://user-images.githubusercontent.com/71230412/232778799-4554357c-3ee2-4320-93c8-f942410aff62.png)
+
+### Q: Using FortiWeb Cloud, what are two advantages of being able to scrub your application traffic within the same region that your application resides ?
+- You can address performance and regulations concerns
+- You can keep traffic cost to minimum
 
