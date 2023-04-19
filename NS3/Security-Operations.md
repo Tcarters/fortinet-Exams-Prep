@@ -74,4 +74,27 @@ Answer:
 
 ![image](https://user-images.githubusercontent.com/71230412/233015747-05c528b3-825d-4342-89d8-ad734eda1fed.png)
 
+### Ques: Which three Fortinet products feed FortiNDR with files to analyze ?
+- FortiGate
+- FortiProxy
+- FortiWeb
+
+### FortiNDR Response 
+![image](https://user-images.githubusercontent.com/71230412/233016439-61561c2c-c4f9-4c5c-bf28-5650c9fb256c.png)
+
+### Use Cases of FortiNDR:
+- Ransomware and ATP Detection
+- Infected Endpoint Detection
+- Suspicious traffic Detection
+- Reconnaissance and Lateral Movement
+
+![image](https://user-images.githubusercontent.com/71230412/233016869-e53da7de-037d-4338-87f8-d5632b305c56.png)
+
+### The principal features of FortiNDR are :
+-  **VSA,**
+-  **Detecting**
+-  **Tracing**
+-  **and responding of which blocking would be one example.**
+
+
 
