@@ -215,8 +215,13 @@ Answer:
 
 ![image](https://user-images.githubusercontent.com/71230412/233037718-b56b21bb-aa48-4fb3-9e9d-2f3be6d6990c.png)
 
+![image](https://user-images.githubusercontent.com/71230412/233038080-af28b0d1-b2df-42b0-bba7-e3bb0a2c04d8.png)
+
+- Alternatively, Remmote remediation without reimaging 
 
 
+#### FortiEDR Features - Remediate Process
+- No reimaging & automate using playbook 
 
 
 
