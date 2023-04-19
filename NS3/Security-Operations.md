@@ -258,6 +258,39 @@ Answer:
 
 ![image](https://user-images.githubusercontent.com/71230412/233045074-9a262ac2-90cc-4454-9a8b-30ad5745d223.png)
 
+- - -
+## Lesson5 FortiSandbox
+- What is ? 
+
+![image](https://user-images.githubusercontent.com/71230412/233048404-f364d339-5d81-462f-9b81-baf884bc8576.png)
+
+![image](https://user-images.githubusercontent.com/71230412/233048621-bf56dda0-6906-4567-a62e-2ac923bcafa4.png)
+
+### Security Framework for Digital Security
+- Lockheed Martin Cyber kill Chain 
+
+![image](https://user-images.githubusercontent.com/71230412/233048953-57024d55-6aad-41b2-9afa-91f3b5d58f67.png)
+
+### Sandbox Evolution
+
+![image](https://user-images.githubusercontent.com/71230412/233049542-be7cdf68-6d83-4404-b72b-111fc78c8355.png)
+
+### Why Third generation Sandbox ?
+
+![image](https://user-images.githubusercontent.com/71230412/233051409-1a2ac392-5790-4e7b-b9d9-29a3b2c19540.png)
+
+### Uses Cases:
+- Protecting Agains Ransomware and Zero-Day Threats
+
+![image](https://user-images.githubusercontent.com/71230412/233052363-1f02517a-b037-42b6-abb7-1358c4c3f027.png)
+
+- Enabing threat hunting 
+
+- Defense In-Depth 
+![image](https://user-images.githubusercontent.com/71230412/233051989-857e9893-31a7-43df-bb26-d9212a9ba428.png)
+
+
+
 
 
 
