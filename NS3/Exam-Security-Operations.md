@@ -88,7 +88,8 @@ Answer:
 ```diff
 + Classifies threats
 + Detects threats
-+ Applies virtual patches to vulnerable devices
++ Investigates threats
+
 ```
 
 ### 6) What are three capabilities of FortiSOAR? (Choose three.)
@@ -148,4 +149,95 @@ Select one:
 Answer:
 ```diff
 + It allows enterprises and managed service providers to create partitioned reporting domains.
+```
+
+### 11) The roll back malicious changes feature in FortiEDR is at which stage of the overall attack phase?
+Select one:
+- Pre-infection
+- Scoping
+- Enhancement
+- Post-infection
+Answer:
+```diff
++ Post-infection
+```
+
+### 12) FortiAnalyzer is primarily used for which purpose?
+Select one:
+- Central management of any number of Fortinet devices
+- Monitor incoming and outgoing network traffic and determines whether to allow or block specific traffic
+- Isolate untested code and unknown URLs from the production environment
+- Centralized security logging and reporting
+Answer:
+```diff
++ Centralized security logging and reporting
+```
+
+### 13) The FortiNDR Virtual Security Analyst is built on which machine learning model?
+Select one:
+- Bayesian Probability
+- Deep Neural Networks
+- Random Forest Tree
+- Naive Bayes
+Answer:
+```diff
++ Deep Neural Networks
+```
+### 14) What are three key benefits of FortiAnalyzer? (Choose three.)
+Select one or more:
+- Increases security
+- Allows or blocks specific network traffic
+- Isolates untested code and unknown URLs
+- Reduces complexity of management
+- Automates compliance
+Answer:
+```diff
++ Increases security
++ Reduces complexity of management
++ Automates compliance
+```
+
+### 15)  Which statement correctly identifies how FortiDeceptor defends the network?
+Select one:
+- Builds decoys to lure attackers and inspects their behaviour.
+- Blocks IP addresses and URLs that are identified on deny lists.
+- Reports and enforces compliance of regulations, such as HIPAA and GDPR.
+- Defends against bulk volumetric attacks at layer 3 and layer 4 of the OSI model.
+Answer:
+```diff
++ Builds decoys to lure attackers and inspects their behaviour.
+```
+### 16) What database is used by FortiSIEM to perform real-time asset discovery and classification?
+Select one:
+- Lightweight Directory Access Protocol (LDAP)
+- Extract, Transfer, and Load (ETL)
+- Relational Database Management System (RDBMS)
+- Configuration Management Database (CMDB)
+Answer:
+```diff
++ Configuration Management Database (CMDB)
+```
+
+### 17) What are two FortiGuard services implemented in FortiSandbox? (Choose two.)
+Select one or more:
+- Cleanup service
+- Quarantine service
+- Content Patented Recognition Language (CPRL)
+- File Query service
+Answer:
+```diff
++ Content Patented Recognition Language (CPRL)
++ File Query service.
+```
+
+
+### 18) Which Security Operations use case solves the challenges of misconfigurations during deployment and obtaining detailed logs and telemetry?
+Select one:
+- Advanced compliance reporting
+- Network segmentation
+- Single pane management, visibility, and analytics
+- Cloud container security 
+Answer:
+```diff
++ Single pane management, visibility, and analytics.
 ```
