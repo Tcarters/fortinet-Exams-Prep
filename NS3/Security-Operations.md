@@ -223,8 +223,40 @@ Answer:
 #### FortiEDR Features - Remediate Process
 - No reimaging & automate using playbook 
 
+### Knowledge Check
+- 1. Can FortiEDR roll back ransomware encryption ?
+Answer: 
+```diff
++ Yes
+```
+2. Does FortiEDr have AV and other prevention capabilities ?
+Answer:
+```diff
++ Machine Learning AV, behavior-based detection, vulnerability discovery, and virtual patching. 
+```
+3. What platofrms does FortiEDR support ?
+Answer:
+```diff
++ Windows (plus leagcy, e.g XP & server 2003), Linux, and Mac.
+```
+4. What does cloud-native infrastructure mean ?
+Answer:
+```diff
++ Fortinet hosts and manages the backend infrastructure in the cloud
+```
+5. What does a hybrid deployment mean, and what are its benefits ?
+Answer:
+```diff
++ On-premise core for local network endpoints and cloud core for remote endpoints.
+```
 
+### FortiResponder
 
+![image](https://user-images.githubusercontent.com/71230412/233044543-e4b3b262-dcce-473d-82f6-d15293d0f8ad.png)
+
+### Knowledge Check
+
+![image](https://user-images.githubusercontent.com/71230412/233045074-9a262ac2-90cc-4454-9a8b-30ad5745d223.png)
 
 
 
