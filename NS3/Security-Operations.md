@@ -290,7 +290,11 @@ Answer:
 ![image](https://user-images.githubusercontent.com/71230412/233051989-857e9893-31a7-43df-bb26-d9212a9ba428.png)
 
 
-
+### Knowlege Check
+- **Sandbox 1.0 **: Purpose-built to identify zero-day,  advanced malware,and to generate relevant threat intelligence
+- **Sandbox 2.0**: Integrated with other security solutions to centrally detect and respond to advanced threats.
+- **Sandbox 3.0**: Integrated with AI development of machine learning models applied to static and dynamic analysis.
+ 
 
 
 
