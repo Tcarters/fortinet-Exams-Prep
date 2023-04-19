@@ -135,12 +135,73 @@ Answer:
 ![image](https://user-images.githubusercontent.com/71230412/233025034-cf04b23d-78a4-4e01-8d36-c4aaa4c6e624.png)
 
 ### Quest: 
-- **FortiAnalyzer**: correlates logs to construct a comprehensive security view of the network
-- **FortiGuard Indicator of COmpromise Service**: provides daily threat intelligence updates to construct a list of possible compromised hosts
-- **FortiView**: provides real-time reporting of threat intelligence through dashboards and monitors
-- **FortiGuard Security Rating Service**: performs ongoing security audit of the network and highlights gaps in security and problems areas.
+```diff
++  **FortiAnalyzer**: correlates logs to construct a comprehensive security view of the network
++  **FortiGuard Indicator of Compromise Service**: provides daily threat intelligence updates to construct a list of possible compromised hosts
++  **FortiView**: provides real-time reporting of threat intelligence through dashboards and monitors
++  **FortiGuard Security Rating Service**: performs ongoing security audit of the network and highlights gaps in security and problems areas.
+```
 
 - - -
+
+## Lesson3-FortiDeceptor 
+- It is a Breach Protection Solution
+![image](https://user-images.githubusercontent.com/71230412/233027741-fb7c7c8e-d3cf-4afa-ac3e-d49da959a426.png)
+
+#### Security Framework for Digital Security
+
+![image](https://user-images.githubusercontent.com/71230412/233028329-bdaba8f3-92ff-4039-997b-0cebad503aa4.png)
+
+#### Deception
+
+![image](https://user-images.githubusercontent.com/71230412/233028768-2af64236-fe29-4f89-b273-a5cebbdbb74e.png)
+
+#### Honeypot versus Deception
+
+![image](https://user-images.githubusercontent.com/71230412/233029519-c4177aee-37a9-49c5-8b1d-f3fd5175b938.png)
+
+#### Lifecycle - Deceive
+![image](https://user-images.githubusercontent.com/71230412/233029817-8c8c2149-abd7-49c1-8903-ad9ead98b5a3.png)
+
+#### Lifecycle - Expose 
+
+![image](https://user-images.githubusercontent.com/71230412/233030076-1214a55f-4c06-4a84-9e78-0b3e039f64cc.png)
+
+#### Lifecycle - Eliminate 
+
+![image](https://user-images.githubusercontent.com/71230412/233030480-2241111d-8336-4377-be55-13782664b381.png)
+
+#### Benefits :
+- Attacker visibility
+- Increased resiliency
+- Bolster SOC process
+
+![image](https://user-images.githubusercontent.com/71230412/233030971-a47440d0-8420-4b6d-b69e-aabac152f9e1.png)
+
+#### FortiDeceptor - Use Cases:
+
+![image](https://user-images.githubusercontent.com/71230412/233031294-e6e65d2a-d25d-480e-8cdd-35f628a1af24.png)
+
+#### FortiDeceptor- Threat Analytics
+
+![image](https://user-images.githubusercontent.com/71230412/233031646-4b888b42-3900-43f9-b16d-245c27a1cc1e.png)
+
+
+#### Knowledge Check
+- The FortiDeceptor lifecycle
+- **Expose** : Acts as an early warning system that generates alerts for review and validation
+- **Eliminate**: Can trigger FortiGate to quarantine the Ip address of the threat actor
+- **Deceive**: Lures attackers with decoys and real devices equipped with tokens that appear indistinguishable from real IT and OT assets.
+
+- - -
+
+## Lesson4 FortiEDR
+
+
+
+
+
+
 
 
 
