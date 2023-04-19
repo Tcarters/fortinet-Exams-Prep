@@ -417,14 +417,18 @@ SOAR
 
 
 ### Knowledge Check
+FortiSOAR capabilities are: 
 - **Workbench Response Management**: Visual playbook builder
 - **Automate Alert Triage**: Correlate alerts from across your security stack into a single incident
 - **Improve Security Operations Performance**: Monitor KPIs and create automated reports
 - **Enhance Team Collaboration**: Expediate remediation and resolution of alerts
 
+- - - 
+## Lesson8 - FortiXDR
 
+![image](https://user-images.githubusercontent.com/71230412/233085832-81a5feed-7f2a-4fed-a1ca-1af4f0f99441.png)
 
-
+### DIgital Innovation Increases Security Complexity
 
  
 
