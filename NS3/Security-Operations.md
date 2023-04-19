@@ -97,4 +97,51 @@ Answer:
 -  **and responding of which blocking would be one example.**
 
 
+- - -
+## Lesson2 - FortiAnalyzer
+- FortiAnalyzer simplify Security Operations Across the Security Fabric
+![image](https://user-images.githubusercontent.com/71230412/233018632-db955338-9452-4e17-b039-883e851590eb.png)
+
+![image](https://user-images.githubusercontent.com/71230412/233021320-e5df8ab8-0e77-4716-aa53-5cce87d3eeb8.png)
+
+### SImplify Security Operations
+
+![image](https://user-images.githubusercontent.com/71230412/233021866-99e6752e-d3d8-435d-ada9-999be75d26dc.png)
+
+### Fortinet Advanced Threat Detection
+- FortiGuard Indicators of Comprise (IOC) Service
+- FOrtiGuard Security Rating Service
+- Correlate logs from FOrtiClient, FortiSandbox, FOrtiWeb, FortiGate, FOrtiMail, FortiAUthenticator, syslogs, and others.
+
+### Security Fabric Analytics
+- Real time Visibility
+- Can be Integrated with FortiSandbox CTAP report 
+
+### Security Fabric AUtomation 
+- Incident Containment 
+### Automated Playbooks
+- includes tasks
+- Incident Response and Remediation
+
+### Third-party INtegrators
+- Vendor Consolidation
+
+### Keys Benefits of FortiAnalyzer
+- Increases Security
+- Reduces complexity
+- Lowers TCO
+- Automates compliance
+
+![image](https://user-images.githubusercontent.com/71230412/233025034-cf04b23d-78a4-4e01-8d36-c4aaa4c6e624.png)
+
+### Quest: 
+- **FortiAnalyzer**: correlates logs to construct a comprehensive security view of the network
+- **FortiGuard Indicator of COmpromise Service**: provides daily threat intelligence updates to construct a list of possible compromised hosts
+- **FortiView**: provides real-time reporting of threat intelligence through dashboards and monitors
+- **FortiGuard Security Rating Service**: performs ongoing security audit of the network and highlights gaps in security and problems areas.
+
+- - -
+
+
+
 
