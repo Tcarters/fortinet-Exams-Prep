@@ -197,6 +197,25 @@ Answer:
 
 ## Lesson4 FortiEDR
 
+![image](https://user-images.githubusercontent.com/71230412/233036832-674f6853-5513-47d9-ba75-270e08815f0c.png)
+
+
+### Pain points 
+
+![image](https://user-images.githubusercontent.com/71230412/233037040-05e3e2a0-0444-47ae-ada2-a29a3081a6e9.png)
+
+### Evolution of EPP
+- Advanced Endpoint Protection Platform (EPP) with automated detection and response capabilities
+![image](https://user-images.githubusercontent.com/71230412/233037429-ed02d6de-03a6-4c13-83a0-a3e351028906.png)
+
+### FortiEDR Features
+- Unique EPP and EDR solution
+
+![image](https://user-images.githubusercontent.com/71230412/233037602-1f61c36a-a16d-4b49-b303-b43c5c08bbd4.png)
+
+![image](https://user-images.githubusercontent.com/71230412/233037718-b56b21bb-aa48-4fb3-9e9d-2f3be6d6990c.png)
+
+
 
 
 
