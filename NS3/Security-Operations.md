@@ -430,7 +430,42 @@ FortiSOAR capabilities are:
 
 ### DIgital Innovation Increases Security Complexity
 
- 
+![image](https://user-images.githubusercontent.com/71230412/233087275-ac86c862-8db8-41e5-b000-a6db8927f094.png)
+
+
+### Threat Detection and Response Challenges are Real
+
+![image](https://user-images.githubusercontent.com/71230412/233087514-709948cb-9dee-4bfe-94c8-d1d1af2dabf3.png)
+
+### Knowledge Check
+- The top 3 challenges for organizations regarding threat detection and responses are:
+Answer:
+```diff
++Blind spots 
++ Difficult correlation data
++ Too many emergencies 
+```
+
+### FortiXDR - Detection and Response
+
+![image](https://user-images.githubusercontent.com/71230412/233105180-8b5e37ff-f864-4d1b-897c-aa1b9f9420e9.png)
+
+### FortiXDR Value 
+
+![image](https://user-images.githubusercontent.com/71230412/233105461-0576ac62-9abf-4c3b-8937-b73b42cf75df.png)
+
+### FortiXDR - AI- Powered Investigation Engine
+
+![image](https://user-images.githubusercontent.com/71230412/233105711-2851bdae-e78c-4aef-9eb0-513937c706d4.png)
+
+### Knowledge Check
+Order the sequence of the FOrtiXDR AI-powered
+```diff
+- Collect behavior artifacts
+- Use enriching services to collect additional data
+- Classify artifacts
+- Orchestrate remediation recipe
+```
 
 
 
